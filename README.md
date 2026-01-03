@@ -1,0 +1,1 @@
+This project is a part of The Odin Project course and it's purpose is to better learn HTML, CSS and have a solid foundation in these languages.
